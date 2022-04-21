@@ -1,1 +1,1 @@
-# Coral-Mahato_SimpleDonationWebsiteIntegratedWithPayemntGateway
+# Simple-Donation-Website
